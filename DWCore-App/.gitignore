@@ -1,10 +1,4 @@
-
-
 # See http://help.github.com/ignore-files/ for more about ignoring files.
-
-# .Net Core
-bin
-obj
 
 # compiled output
 /dist
@@ -30,8 +24,6 @@ speed-measure-plugin*.json
 *.sublime-workspace
 
 # IDE - VSCode
-.vs
-.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
